@@ -1,0 +1,7 @@
+<!--logs/page1.wxml-->
+<button bindtap="showToast"> showToast </button>
+<button bindtap="hideToast"> showToast </button>
+<button bindtap="showLoading"> showloading </button>
+<button bindtap="showActionSheet"> showActionSheet </button>
+<button bindtap="showNavigationBarLoading"> showNavigationBarLoading </button>
+<button bindtap='pullRefresh'> pull Refresh </button>
